@@ -1,4 +1,4 @@
-# Data Pass between Fragment
+# Data Pass between Fragments
 
 This is an exercise on sending data between fragment.
 
